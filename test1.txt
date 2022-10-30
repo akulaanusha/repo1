@@ -1,16 +1,4 @@
- Volume in drive C has no label.
- Volume Serial Number is 44AE-0931
-
- Directory of C:\Users\Anusha\Desktop\Git_Project
-
-30-10-2022  15:37    <DIR>          .
-30-10-2022  15:23    <DIR>          ..
-30-10-2022  15:37                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  311,184,502,784 bytes free
-
-Volume in drive C has no label.
- Volume Serial Number is 44AE-0931
+ 
 
  Directory of C:\Users\Anusha\Desktop\Git_Project
 
